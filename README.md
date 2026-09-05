@@ -1,2 +1,2 @@
-# code for Hot 100
+# Code for Hot 100
 - TowSum
