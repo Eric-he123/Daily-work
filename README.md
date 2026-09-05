@@ -1,2 +1,3 @@
 # Code for Hot 100
-- TowSum
+- 1. TowSum
+- 2. TowSum II - Input Arrray Is Sorted
